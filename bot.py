@@ -28,7 +28,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN")
 MONGO_URL = os.environ.get("MONGO_URL")
 
 
-Chat_Group = [-1001773806532]
+Chat_Group = [-1001682321049]
 
 
 bot = Client(
